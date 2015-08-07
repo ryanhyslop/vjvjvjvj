@@ -1,0 +1,12 @@
+
+#jenkins-home-link #jenkins-head-icon {
+ display: none;
+}
+
+#jenkins-home-link:before {
+    content: '';
+    display: inline-block;
+    height: 37px;
+    width: 36px;
+    background: url(vj.png) no-repeat;
+}
